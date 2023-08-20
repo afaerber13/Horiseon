@@ -1,2 +1,2 @@
 # Horiseon
-Horiseon code rework
+Refactoring the code for Horiseon site
